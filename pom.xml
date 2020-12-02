@@ -80,11 +80,11 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://100.26.18.160:8081/repository/halloworld/</url>
+			<url>http://100.26.18.160:8081/repository/maven-nexus-repo/</url>
 		</snapshotRepository>
 		<repository>
              <id>nexus</id>
-             <url>http://100.26.18.160:8081/repository/halloworld/</url>
+             <url>http://100.26.18.160:8081/repository/maven-nexus-repo/</url>
        	     </repository>
 	</distributionManagement>
 	<build>
